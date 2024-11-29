@@ -55368,69 +55368,6 @@
   <programme start="20241129070100 +0000" stop="20241129072900 +0000" channel="us.US1800010NE">
     <title>Lassie</title>
   </programme>
-  <programme start="20241129072900 +0000" stop="20241129082900 +0000" channel="us.US1800010NE">
-    <title>Lassie</title>
-  </programme>
-  <channel id="us.US18000078A">
-    <display-name>Little House on the Prairie</display-name>
-  </channel>
-  <programme start="20241129012900 +0000" stop="20241129022500 +0000" channel="us.US18000078A">
-    <title>Little House on the Prairie</title>
-  </programme>
-  <programme start="20241129022500 +0000" stop="20241129031800 +0000" channel="us.US18000078A">
-    <title>Little House on the Prairie</title>
-  </programme>
-  <programme start="20241129031800 +0000" stop="20241129041300 +0000" channel="us.US18000078A">
-    <title>Little House on the Prairie</title>
-  </programme>
-  <programme start="20241129041300 +0000" stop="20241129050700 +0000" channel="us.US18000078A">
-    <title>Little House on the Prairie</title>
-  </programme>
-  <programme start="20241129050700 +0000" stop="20241129060200 +0000" channel="us.US18000078A">
-    <title>Little House on the Prairie</title>
-  </programme>
-  <programme start="20241129060200 +0000" stop="20241129065700 +0000" channel="us.US18000078A">
-    <title>Little House on the Prairie</title>
-  </programme>
-  <programme start="20241129065700 +0000" stop="20241129075700 +0000" channel="us.US18000078A">
-    <title>Little House on the Prairie</title>
-  </programme>
-  <channel id="us.USBA300005MK">
-    <display-name>Pluto TV Westerns</display-name>
-  </channel>
-  <programme start="20241129010027 +0000" stop="20241129034527 +0000" channel="us.USBA300005MK">
-    <title>El Dorado</title>
-  </programme>
-  <programme start="20241129034527 +0000" stop="20241129053027 +0000" channel="us.USBA300005MK">
-    <title>Hondo</title>
-  </programme>
-  <programme start="20241129053027 +0000" stop="20241129063027 +0000" channel="us.USBA300005MK">
-    <title>The Shootist</title>
-  </programme>
-  <channel id="us.USBD1200021JM">
-    <display-name>Shout! TV</display-name>
-  </channel>
-  <programme start="20241129000101 +0000" stop="20241129020255 +0000" channel="us.USBD1200021JM">
-    <title>MST3K</title>
-  </programme>
-  <programme start="20241129020255 +0000" stop="20241129040255 +0000" channel="us.USBD1200021JM">
-    <title>MST3K</title>
-  </programme>
-  <programme start="20241129040255 +0000" stop="20241129060051 +0000" channel="us.USBD1200021JM">
-    <title>MST3K</title>
-  </programme>
-  <programme start="20241129060051 +0000" stop="20241129070051 +0000" channel="us.USBD1200021JM">
-    <title>MST3K</title>
-  </programme>
-  <channel id="us.USBC3200020QF">
-    <display-name>Western Bound</display-name>
-  </channel>
-  <programme start="20241129013000 +0000" stop="20241129020000 +0000" channel="us.USBC3200020QF">
-    <title>The Rifleman</title>
-  </programme>
-  <programme start="20241129020000 +0000" stop="20241129023000 +0000" channel="us.USBC3200020QF">
-    <title>Wild West Chronicles</title>
-  </programme>
   <programme start="20241129023000 +0000" stop="20241129030000 +0000" channel="us.USBC3200020QF">
     <title>The Rifleman</title>
   </programme>
