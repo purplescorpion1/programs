@@ -164,10 +164,6 @@
     <display-name>UnXplained Zone</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/OMUgNla_iOsVVQ==/dfdffa87-f1cf-4849-baab-6d55e3c3f3d6/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000094" start="20250211122800 +0000" stop="20250211125500 +0000">
-    <title>The Proof Is Out There</title>
-    <desc>A baby shark develops an eerie, humanlike face; blue lights in the sky may be a sign that the end is coming; possible aliens vacation over Lake Superior.</desc>
-  </programme>
   <programme channel="400000094" start="20250211125500 +0000" stop="20250211132300 +0000">
     <title>The Proof Is Out There</title>
     <desc>Investigating if a breed of dogs could possess the power to completely freeze time; asking if invisibility cloaking is possible; looking for evidence that aliens crash-landed in Antarctica several millenniums ago.</desc>
@@ -540,10 +536,6 @@
     <display-name>ABC News Live</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/Xzzw_op-3BJ_Ew==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="618762" start="20250211123000 +0000" stop="20250211130000 +0000">
-    <title>Start Here</title>
-    <desc>Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
-  </programme>
   <programme channel="618762" start="20250211130000 +0000" stop="20250211133000 +0000">
     <title>Good Morning America First Look</title>
     <desc>Description Unavailable</desc>
@@ -747,10 +739,6 @@
     <display-name>NBC News NOW</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/CEsjFZ6eloxsiQ==/dd770066-df10-4187-b8d5-c31d0b9c0a1f/CHgQeDoFMS4xLjY="/>
   </channel>
-  <programme channel="556174" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>Morning News NOW</title>
-    <desc>Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.</desc>
-  </programme>
   <programme channel="556174" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Morning News NOW</title>
     <desc>Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.</desc>
@@ -935,10 +923,6 @@
     <display-name>Localish</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/G2vNHx3b9Bn0Sw==/577b5b8e-307a-4535-a8fc-e18563a11950/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="618763" start="20250211123000 +0000" stop="20250211130000 +0000">
-    <title>Best of Localish</title>
-    <desc>Visiting a collector in Philadelphia with over a million toys in his collection; watching hi-tech helping farmers and celebrating WDW's 50th anniversary.</desc>
-  </programme>
   <programme channel="618763" start="20250211130000 +0000" stop="20250211133000 +0000">
     <title>Bite Size</title>
     <desc>Hit up a deli fusing Jewish and Japanese flavors; stop by a San Francisco joint that's all about Mac 'n' Cheese; and grab a Taco in a Bag in Chi.</desc>
@@ -1222,10 +1206,6 @@
     <display-name>Today All Day</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/-nSfDv9XStOFVw==/bf04720c-d113-4728-a69a-a0ebc800e7b3/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="597678" start="20250211123000 +0000" stop="20250211130000 +0000">
-    <title>Head of the Table</title>
-    <desc>Profiles women who have made it to the highest levels of the culinary space. Elena Besser hosts.</desc>
-  </programme>
   <programme channel="597678" start="20250211130000 +0000" stop="20250211133000 +0000">
     <title>Head of the Table</title>
     <desc>Profiles women who have made it to the highest levels of the culinary space. Elena Besser hosts.</desc>
@@ -1446,10 +1426,6 @@
     <display-name>Cheddar</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/YZrmIWYwpun5Gw==/4975eac2-9902-4ac5-8036-f28a6d9979a0/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="555126" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>Entrepreneur Elevator Pitch</title>
-    <desc>Fast-paced pitch show, where entrepreneurs seek investment from a panel judges.</desc>
-  </programme>
   <programme channel="555126" start="20250211130000 +0000" stop="20250211133000 +0000">
     <title>The CEO Series</title>
     <desc>A look into the CEO's personal story, mindset, and business and industry; each episode profiles a business leader and their respective business.</desc>
@@ -1834,10 +1810,6 @@
     <display-name>Scripps News</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/2e-vNuSZhX-vCQ==/d7933070-b9eb-4ce4-9c59-9631dd5815be/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="578086" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>Morning Rush</title>
-    <desc>Join the Morning Rush team every weekday as Alex Livingston, Rob Nelson and Jay Strubberg bring you the stories that you will be talking about throughout your day. Watch Morning Rush from 7 a.m. to noon ET.</desc>
-  </programme>
   <programme channel="578086" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Morning Rush</title>
     <desc>Join the Morning Rush team every weekday as Alex Livingston, Rob Nelson and Jay Strubberg bring you the stories that you will be talking about throughout your day. Watch Morning Rush from 7 a.m. to noon ET.</desc>
@@ -1994,10 +1966,6 @@
     <display-name>Estrella News</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/q_ezHQGxesxVjg==/6693c612-32f8-4e02-be56-0029a4576cb2/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="560215" start="20250211123000 +0000" stop="20250211130000 +0000">
-    <title>24 Horas</title>
-    <desc>24 horas, acceso constante a las noticias más importantes para la comunidad Latina en EE. UU. y el mundo.</desc>
-  </programme>
   <programme channel="560215" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Noticiero Cierre de Edición</title>
     <desc>Mirthala Salinas presenta las noticias más importantes a nivel nacional y Latinoamérica.</desc>
@@ -2270,10 +2238,6 @@
     <display-name>NFL Channel</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/ejtrJmHYhSOwsA==/7bffc557-8e66-4b08-b279-55ece734e19f/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="613761" start="20250211121900 +0000" stop="20250211124900 +0000">
-    <title>Weekly Game Recaps</title>
-    <desc>Highlights and interviews from the NFL.</desc>
-  </programme>
   <programme channel="613761" start="20250211124900 +0000" stop="20250211135100 +0000">
     <title>Super Bowl Champions: Road to Super Bowl</title>
     <desc>Highlights of the most impactful games from the Super Bowl champions road to Super Bowl LIX.</desc>
@@ -3202,10 +3166,6 @@
     <display-name>UFC</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/NOj5lxEUQE5QQA==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000106" start="20250211123422 +0000" stop="20250211130411 +0000">
-    <title>UFC Fight Flashback: Khabib vs McGregor</title>
-    <desc>UFC Fight Flashback: Khabib vs McGregor is an enhanced replay of this incredible night to remember.</desc>
-  </programme>
   <programme channel="400000106" start="20250211130411 +0000" stop="20250211133400 +0000">
     <title>UFC Fight Flashback: Teixeira vs Prochazka</title>
     <desc>Relive their fight with enhanced replays and angles, new footage, and exclusive audio.</desc>
@@ -3406,10 +3366,6 @@
     <display-name>UFC</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/NOj5lxEUQE5QQA==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000106" start="20250211123422 +0000" stop="20250211130411 +0000">
-    <title>UFC Fight Flashback: Khabib vs McGregor</title>
-    <desc>UFC Fight Flashback: Khabib vs McGregor is an enhanced replay of this incredible night to remember.</desc>
-  </programme>
   <programme channel="400000106" start="20250211130411 +0000" stop="20250211133400 +0000">
     <title>UFC Fight Flashback: Teixeira vs Prochazka</title>
     <desc>Relive their fight with enhanced replays and angles, new footage, and exclusive audio.</desc>
@@ -3610,10 +3566,6 @@
     <display-name>DAZN Ringside</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/O9zi2J2I-luY3A==/aa1f99f5-7a57-44a1-b031-b3a27eceab13/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000024" start="20250211121209 +0000" stop="20250211125618 +0000">
-    <title>Joshua vs. Povetkin (2018)</title>
-    <desc>Unbeaten in his last eight, Povetkin challenges Anthony Joshua for the IBF, WBA Super, WBO and IBO titles.</desc>
-  </programme>
   <programme channel="400000024" start="20250211125618 +0000" stop="20250211134850 +0000">
     <title>Taylor vs. Persoon II (2020)</title>
     <desc>In an eagerly-awaited rematch, Katie Taylor faced Belgium's Delfine Persoon.</desc>
@@ -4194,10 +4146,6 @@
     <display-name>Top Rank Classics</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/rYktwBdoVTJpjQ==/9ecc2de5-5b17-4d2e-a407-ced0d00af082/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000055" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>Manny Pacquiao vs Juan Manuel Marquez 2</title>
-    <desc>On March 15th 2008, Manny Pacquiao and Juan Manuel Marquez faced for the second time resulting in a win for Pacquiao.</desc>
-  </programme>
   <programme channel="400000055" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Manny Pacquiao vs Juan Manuel Marquez 3</title>
     <desc>On November 12th 2011, Manny Pacquiao and Juan Manuel Marquez fight for the third time.</desc>
@@ -4342,10 +4290,6 @@
     <display-name>fubo Sports Network</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/Gfl-Cbg3W_DZpg==/765d496d-2d4a-4c13-9345-1b5ce81eef87/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="557344" start="20250211123000 +0000" stop="20250211130000 +0000">
-    <title>Invincible</title>
-    <desc>Billie Jean King's legendary battle for equality.</desc>
-  </programme>
   <programme channel="557344" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Real Madrid Pass</title>
     <desc>A weekly magazine show on the most successful and popular soccer club in the world packed with match previews, game highlights, exclusive interviews, and expert analysis.</desc>
@@ -4470,10 +4414,6 @@
     <display-name>PokerGO</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/O60aCkU9OFUgvQ==/3a6b2ab5-d20e-4b25-9231-65bc11c8b3c0/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000045" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>Super High Roller Cash Game</title>
-    <desc>The most exciting high stakes no-limit hold'em cash game is here! Watch the 2015 Super High Roller Cash Game with a minimum buy-in of $250000 $400/$800 blinds and a $200 ante. On the sixth episode things get spiced up with a new lineup featuring Scott</desc>
-  </programme>
   <programme channel="400000045" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Super High Roller Cash Game</title>
     <desc>The most exciting high stakes no-limit hold'em cash game is here! Watch the 2015 Super High Roller Cash Game with a minimum buy-in of $250000 $400/$800 blinds and a $200 ante. On the seventh episode Andrew Robl buys in for $1500000 and Dan Colman jo</desc>
@@ -4682,10 +4622,6 @@
     <display-name>ACCDN</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/V6aFdoqX6ocCfQ==/8928da85-c7af-4da6-a0a1-9a32e3e5b2e8/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000012" start="20250211105959 +0000" stop="20250211125959 +0000">
-    <title>2014 ACC WBB Championship: Duke vs. Notre Dame</title>
-    <desc>The Fighting Irish win the crown their very first year in the ACC.</desc>
-  </programme>
   <programme channel="400000012" start="20250211125959 +0000" stop="20250211152959 +0000">
     <title>2023 ACC Women's Soccer Championship: Clemson vs. Florida State</title>
     <desc>The Noles take home another ACC title in Cary.</desc>
@@ -4914,10 +4850,6 @@
     <display-name>Women's Sports Network</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/TkWg0eQh-b5T5g==/4a1d8a18-5086-438b-9298-7381aee4cb83/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="692073" start="20250211121700 +0000" stop="20250211124500 +0000">
-    <title>Premier Rugby Sevens</title>
-    <desc>Coverage of the men's and women's professional rugby matches.</desc>
-  </programme>
   <programme channel="692073" start="20250211124500 +0000" stop="20250211134600 +0000">
     <title>GAME ON: Spotlight</title>
     <desc>Description Unavailable</desc>
@@ -5110,10 +5042,6 @@
     <display-name>beIN Sports XTRA</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/oRno2s1LzjWfBA==/937ec9ac-b4bd-4c16-863b-75dc816129d7/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="613758" start="20250211110000 +0000" stop="20250211130000 +0000">
-    <title>Ski Classics 2023/2024</title>
-    <desc>The long distance ski championship consisting of the most traditional cross country skiing events in the world</desc>
-  </programme>
   <programme channel="613758" start="20250211130000 +0000" stop="20250211133000 +0000">
     <title>2024 Aquabikes World Championships</title>
     <desc>Description Unavailable</desc>
@@ -5218,10 +5146,6 @@
     <display-name>Stadium</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/IN3hgyQk_H2LlA==/ffec7159-bf94-4c51-9544-5162e5a57b2f/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="613763" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>BKFC 39</title>
-    <desc>From March 24, 2023 at the Scope Arena in Norfolk, Va.</desc>
-  </programme>
   <programme channel="613763" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>The Daily Tip</title>
     <desc>Early Betting Tips to Give You The Edge. Your first source for the day's angles, hot takes, analysis and more with hosts Michael Jenkins and Chelsa Messinger. Weekdays from 6am-9am ET.</desc>
@@ -5398,10 +5322,6 @@
     <display-name>FanDuel TV Extra</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/Jzqa5IraphTc-w==/033a7701-c6ef-42be-a66e-b517d36a83e1/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000100" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>Up &amp; Adams</title>
-    <desc>Kay Adams and a rotating roster of current and former players discuss the biggest storylines in the NFL.</desc>
-  </programme>
   <programme channel="400000100" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Run it Back</title>
     <desc>Former NBA stars Chandler Parsons and Lou Williams, along with Michelle Beadle and Shams Charania discuss the biggest NBA matchups &amp; storylines.</desc>
@@ -5518,10 +5438,6 @@
     <display-name>FanDuel TV Extra</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/Jzqa5IraphTc-w==/033a7701-c6ef-42be-a66e-b517d36a83e1/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000100" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>Up &amp; Adams</title>
-    <desc>Kay Adams and a rotating roster of current and former players discuss the biggest storylines in the NFL.</desc>
-  </programme>
   <programme channel="400000100" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Run it Back</title>
     <desc>Former NBA stars Chandler Parsons and Lou Williams, along with Michelle Beadle and Shams Charania discuss the biggest NBA matchups &amp; storylines.</desc>
@@ -5638,10 +5554,6 @@
     <display-name>Outside</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/fJsDbQr5Lqm42g==/ca066103-7f12-4fe3-a7b4-782918a9a7f2/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000005" start="20250211123000 +0000" stop="20250211130000 +0000">
-    <title>Great Family Adventure</title>
-    <desc>Nick Troutman, Emily Jackson, and their family visit the Freestyle Kayaking Team Trials in Columbus, Georgia.</desc>
-  </programme>
   <programme channel="400000005" start="20250211130000 +0000" stop="20250211133000 +0000">
     <title>Great Family Adventure</title>
     <desc>Nick Troutman &amp; Emily Jackson and family set out on a road trip from Rock Island, Tennessee to West Virginia.</desc>
@@ -5962,10 +5874,6 @@
     <display-name>Fox Sports en Espanol</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/y0a6tLgKc7keFw==/c2e45f1a-4b72-41fa-ac6c-4e402ca4d4f6/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="613695" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>FOX SPORTS EN ESPAÑOL</title>
-    <desc>FOX SPORTS EN ESPAÑOL</desc>
-  </programme>
   <programme channel="613695" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>FOX SPORTS EN ESPAÑOL</title>
     <desc>FOX SPORTS EN ESPAÑOL</desc>
@@ -6238,10 +6146,6 @@
     <display-name>FilmRise Black TV</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/HH18vE5EohR5Zw==/d4f0575b-389c-47f7-83c8-ce2a262ee072/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="692087" start="20250211111000 +0000" stop="20250211130000 +0000">
-    <title>Animal</title>
-    <desc>In this crime-drama starring football superstar Jim Brown, a notorious gangster must reconcile his past in order to make a future for his criminally-minded son.</desc>
-  </programme>
   <programme channel="692087" start="20250211130000 +0000" stop="20250211143000 +0000">
     <title>The Jackie Robinson Story (In Color)</title>
     <desc>Jackie Robinson stars as himself in this classic chronicling his life from youth to his rise as a legend with the Brooklyn Dodgers.</desc>
@@ -6593,10 +6497,6 @@
     <display-name>Our Voice Our Truth</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/G22r0B90J8H0Ig==/467445b8-5e63-4c4c-9d18-1d905b01a79e/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="555382" start="20250211123000 +0000" stop="20250211130000 +0000">
-    <title>Portia</title>
-    <desc>A community-minded lifestyle program, focusing particularly on the needs of Black women; it will inform, uplift and enlighten through conversations about faith, family, health and social issues.</desc>
-  </programme>
   <programme channel="555382" start="20250211130000 +0000" stop="20250211133000 +0000">
     <title>Dish Nation</title>
     <desc>Usher struggles to keep his abs and Eve thanks Nicki Minaj</desc>
@@ -6803,10 +6703,6 @@
     <display-name>Bounce XL</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/WEb1uoFar5BiaQ==/c5316804-bd82-46f4-81a4-289a8333cd71/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="684164" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>Karamo</title>
-    <desc>Karamo is a true fan of the talk-show genre who brings that passion, a unique skill set and life experiences to guide his guests through life's dramatic crossroads and build a lasting connection with the daytime audience.</desc>
-  </programme>
   <programme channel="684164" start="20250211130000 +0000" stop="20250211133000 +0000">
     <title>Hot Bench</title>
     <desc>A teen says her 39-year-old ex-lover fell asleep at the wheel and crashed her car; a family fights over accusations of theft.</desc>
@@ -7023,10 +6919,6 @@
     <display-name>Ebony TV by Lionsgate</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/IzO2uaHuE9sRvQ==/2214bad3-8787-47cd-b587-d84820538dca/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000056" start="20250211124033 +0000" stop="20250211130540 +0000">
-    <title>Are We There Yet?</title>
-    <desc>Nick runs into an old college friend, who convinces him to bring Deion Sanders aboard his energy drink business – with humiliating consequences.</desc>
-  </programme>
   <programme channel="400000056" start="20250211130540 +0000" stop="20250211133048 +0000">
     <title>Are We There Yet?</title>
     <desc>Suzanne and Nick go out with another couple, but the double date soon fizzles when an accusation flies.</desc>
@@ -7611,10 +7503,6 @@
     <display-name>Nash Bridges</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/owupTtTNmaL97A==/13cb369b-10c8-4017-82f6-3658ff67b899/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000105" start="20250211120257 +0000" stop="20250211125548 +0000">
-    <title>Nash Bridges</title>
-    <desc>Nash tracks down a pension accountant who has embezzled $7.3 million in city funds.</desc>
-  </programme>
   <programme channel="400000105" start="20250211125548 +0000" stop="20250211134908 +0000">
     <title>Nash Bridges</title>
     <desc>Nash and the SIU team investigate a string of robberies with nothing in common.</desc>
@@ -7779,10 +7667,6 @@
     <display-name>Nash Bridges</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/owupTtTNmaL97A==/13cb369b-10c8-4017-82f6-3658ff67b899/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000105" start="20250211120257 +0000" stop="20250211125548 +0000">
-    <title>Nash Bridges</title>
-    <desc>Nash tracks down a pension accountant who has embezzled $7.3 million in city funds.</desc>
-  </programme>
   <programme channel="400000105" start="20250211125548 +0000" stop="20250211134908 +0000">
     <title>Nash Bridges</title>
     <desc>Nash and the SIU team investigate a string of robberies with nothing in common.</desc>
@@ -8431,10 +8315,6 @@
     <display-name>Wanted: Dead or Alive</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/K8OoIdRjWsTQ_w==/5583c936-6239-4da3-b733-a9aaeebbc2fe/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="680705" start="20250211122900 +0000" stop="20250211125848 +0000">
-    <title>Wanted: Dead or Alive</title>
-    <desc>Josh and Jason are on the trail of a karate expert accused of killing his employer.</desc>
-  </programme>
   <programme channel="680705" start="20250211125848 +0000" stop="20250211132831 +0000">
     <title>Wanted: Dead or Alive</title>
     <desc>Randall learns &quot;hate comes high&quot; in a town who have hired killers to murder their fellow resident.</desc>
@@ -9311,10 +9191,6 @@
     <display-name>The Carol Burnett Show</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/Tvz9McbxXNg2uw==/0de31780-db48-47ea-9279-955ddaa089b5/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="656574" start="20250211112959 +0000" stop="20250211130026 +0000">
-    <title>The Best Of The Carol Burnett Show</title>
-    <desc>Joel Grey and Vincent Price play guests at a hotel where Carol is the switchboard operator.</desc>
-  </programme>
   <programme channel="656574" start="20250211130026 +0000" stop="20250211140000 +0000">
     <title>The Best Of The Carol Burnett Show</title>
     <desc>Carol's good luck charm Jim Nabors guest stars!</desc>
@@ -9515,10 +9391,6 @@
     <display-name>The Carol Burnett Show</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/Tvz9McbxXNg2uw==/0de31780-db48-47ea-9279-955ddaa089b5/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="656574" start="20250211112959 +0000" stop="20250211130026 +0000">
-    <title>The Best Of The Carol Burnett Show</title>
-    <desc>Joel Grey and Vincent Price play guests at a hotel where Carol is the switchboard operator.</desc>
-  </programme>
   <programme channel="656574" start="20250211130026 +0000" stop="20250211140000 +0000">
     <title>The Best Of The Carol Burnett Show</title>
     <desc>Carol's good luck charm Jim Nabors guest stars!</desc>
@@ -9719,10 +9591,6 @@
     <display-name>The Conners</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/CqnjP3-vqzMn2g==/2519aeef-b530-4f17-b7e7-16dfce1f1bd0/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000103" start="20250211123225 +0000" stop="20250211125758 +0000">
-    <title>The Conners</title>
-    <desc>Darlene urges Ben to make some male friends as he feels anxious about turning 50.</desc>
-  </programme>
   <programme channel="400000103" start="20250211125758 +0000" stop="20250211132328 +0000">
     <title>The Conners</title>
     <desc>The hardware store suffers a smash and grab and Dan and Jackie hold one of the culprits.</desc>
@@ -10059,10 +9927,6 @@
     <display-name>The Conners</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/CqnjP3-vqzMn2g==/2519aeef-b530-4f17-b7e7-16dfce1f1bd0/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000103" start="20250211123225 +0000" stop="20250211125758 +0000">
-    <title>The Conners</title>
-    <desc>Darlene urges Ben to make some male friends as he feels anxious about turning 50.</desc>
-  </programme>
   <programme channel="400000103" start="20250211125758 +0000" stop="20250211132328 +0000">
     <title>The Conners</title>
     <desc>The hardware store suffers a smash and grab and Dan and Jackie hold one of the culprits.</desc>
@@ -10399,10 +10263,6 @@
     <display-name>Always Funny</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/fx0OZHA-1_ZDwA==/e8f543f1-3086-4896-a76e-20e86b782bd3/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="653208" start="20250211123000 +0000" stop="20250211130000 +0000">
-    <title>Fail Center</title>
-    <desc>Fail Center showcases the funniest fail videos matched with comedic sports commentary.</desc>
-  </programme>
   <programme channel="653208" start="20250211130000 +0000" stop="20250211133000 +0000">
     <title>World's Funniest Videos Top 10 Countdown</title>
     <desc>Humor has no international borders. We're bringing you the most hilarious moments across the globe.</desc>
@@ -10663,10 +10523,6 @@
     <display-name>Anger Management</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/3AAuFcDLBRjFGw==/c327b06a-5844-429b-a4e1-36717181c962/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="682059" start="20250211123849 +0000" stop="20250211130421 +0000">
-    <title>Anger Management</title>
-    <desc>Charlie tries to tempt his best party buddy when he becomes a priest.</desc>
-  </programme>
   <programme channel="682059" start="20250211130421 +0000" stop="20250211132951 +0000">
     <title>Anger Management</title>
     <desc>A forbidden romance tempts Charlie.</desc>
@@ -11011,10 +10867,6 @@
     <display-name>Are We There Yet</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/dT2X-M7b4_XRcw==/620cc48a-a6d9-439e-8b38-f857a4ab2630/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="682057" start="20250211121902 +0000" stop="20250211124411 +0000">
-    <title>Are We There Yet?</title>
-    <desc>Suzanne grows jealous of Nick's pretty young field producer.</desc>
-  </programme>
   <programme channel="682057" start="20250211124411 +0000" stop="20250211130719 +0000">
     <title>Are We There Yet?</title>
     <desc>Suzanne infiltrates Nick's night with the boys, so he retaliates by crashing her all-lady spa getaway.</desc>
@@ -11475,10 +11327,6 @@
     <display-name>LOL! Network</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/V3o4QcXrioIcZA==/559dcbc7-ce1e-4b6e-8f21-ef614bf9efca/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="692114" start="20250211123900 +0000" stop="20250211130400 +0000">
-    <title>Everybody Hates Chris</title>
-    <desc>Chris finds a Playboy magazine in Julius's toolbox and takes it to school.</desc>
-  </programme>
   <programme channel="692114" start="20250211130400 +0000" stop="20250211132800 +0000">
     <title>Everybody Hates Chris</title>
     <desc>Chris attempts to help Malvo, a career criminal who was recently released from jail, turn his life around by going back to high school.</desc>
@@ -11763,10 +11611,6 @@
     <display-name>LOL! Stand Up</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/5RRuyA5d89P-eg==/7a3d86eb-77dc-478f-afb4-2fcc3c3be453/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="692115" start="20250211123000 +0000" stop="20250211124900 +0000">
-    <title>Comedy in Color</title>
-    <desc>Hilarious stand-up performances from Sterling Scott and Mike Lawrence.</desc>
-  </programme>
   <programme channel="692115" start="20250211124900 +0000" stop="20250211130800 +0000">
     <title>Comedy in Color</title>
     <desc>Hilarious stand-up performances from Rachid Badouri and Ms. Pat.</desc>
@@ -12435,10 +12279,6 @@
     <display-name>Deal or No Deal USA</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/QGIqU75Kx5A8og==/78811e2c-60c2-4e88-ac2b-c083848b67ce/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="670604" start="20250211121515 +0000" stop="20250211130410 +0000">
-    <title>Deal or No Deal</title>
-    <desc>With 26 sealed briefcases full of varying amounts of cash, ranging from a penny to $1m - contestants decide whether to accept an offer of cash from 'the Banker,' in exchange for what might be contained in the contestant's chosen briefcase.</desc>
-  </programme>
   <programme channel="670604" start="20250211130410 +0000" stop="20250211135219 +0000">
     <title>Deal or No Deal</title>
     <desc>With 26 sealed briefcases full of varying amounts of cash, ranging from a penny to $1m - contestants decide whether to accept an offer of cash from 'the Banker,' in exchange for what might be contained in the contestant's chosen briefcase.</desc>
@@ -13096,10 +12936,6 @@
     <display-name>Supermarket Sweep</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/cNv1BFCfwtiqSg==/5a1c3037-9440-4644-a0fd-489d5554ff1c/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="658748" start="20250211123500 +0000" stop="20250211130100 +0000">
-    <title>Supermarket Sweep</title>
-    <desc>In this classic game show, teams answer trivia questions to earn time and advantages over competitors in a supermarket shopping spree.</desc>
-  </programme>
   <programme channel="658748" start="20250211130100 +0000" stop="20250211132700 +0000">
     <title>Supermarket Sweep</title>
     <desc>In this classic game show, teams answer trivia questions to earn time and advantages over competitors in a supermarket shopping spree.</desc>
@@ -13552,10 +13388,6 @@
     <display-name>The Masked Singer</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/xx8Y4ZFpGwW72Q==/ff6398da-6988-4b07-85ed-d732eb70b6aa/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="650666" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>The Masked Singer</title>
-    <desc>The masked singer celebrates the holiday season.</desc>
-  </programme>
   <programme channel="650666" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>The Masked Singer</title>
     <desc>Season nine returns with “Champion of the Masked Singer”.</desc>
@@ -13700,10 +13532,6 @@
     <display-name>Wipeout Xtra</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/l4azoWpOK-d_5w==/991109c5-dce1-4eac-a23f-1d4713c52cbf/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="670603" start="20250211113555 +0000" stop="20250211125115 +0000">
-    <title>Total Wipeout</title>
-    <desc>Ten celebrities from the world of sport and television take on one of the most extreme obstacle courses.</desc>
-  </programme>
   <programme channel="670603" start="20250211125115 +0000" stop="20250211140441 +0000">
     <title>Total Wipeout</title>
     <desc>In this episode, twenty intrepid contestants take on four gruelling obstacles.</desc>
@@ -13837,10 +13665,6 @@
     <display-name>America's Test Kitchen</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/EKWXK6G6NpOBKA==/9804e812-0cda-4c43-b18e-ed951546a0b6/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="691129" start="20250211122959 +0000" stop="20250211125959 +0000">
-    <title>America's Test Kitchen</title>
-    <desc>Few recipes deliver so much pleasure for so little work as pancakes.</desc>
-  </programme>
   <programme channel="691129" start="20250211125959 +0000" stop="20250211132959 +0000">
     <title>America's Test Kitchen</title>
     <desc>In this episode we take a look at two summer favorites: blueberry cobbler and free-form fruit tart.</desc>
@@ -14129,10 +13953,6 @@
     <display-name>Gordon Ramsay</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/nuIQmh6wzgQkwA==/f7eea1c7-409e-4abc-b6f3-1228bb7135d7/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="677011" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>MasterChef</title>
-    <desc>In a flipping awesome pre-challenge, the junior home cooks will race to see who can flip and stack the most pancakes, and the winner will put the judges in a very sticky situation.</desc>
-  </programme>
   <programme channel="677011" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Kitchen Nightmares - Censored</title>
     <desc>Chef Ramsay is in the Big Apple to revamp Dillon's, an Indian restaurant just blocks away from his own thriving eatery. Stubborn owner Mohammed loses approximately $25,000-$50,000 a month.</desc>
@@ -14545,10 +14365,6 @@
     <display-name>Sweet Escapes</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/Uny8n-PP4r0bAA==/db730c00-68a8-4147-bbab-a07b081c3179/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="715938" start="20250211124009 +0000" stop="20250211130310 +0000">
-    <title>Ace of Cakes</title>
-    <desc>Duff takes to the ice to challenge a team of sled hockey players.</desc>
-  </programme>
   <programme channel="715938" start="20250211130310 +0000" stop="20250211132611 +0000">
     <title>Ace of Cakes</title>
     <desc>Charm City Cakes takes on one of its biggest architectural challenges.</desc>
@@ -15045,10 +14861,6 @@
     <display-name>Kartoon Channel!</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/nJ-rYVgMSmS6gw==/4258e598-4722-409b-8e3c-625f800ba9ba/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000033" start="20250211123000 +0000" stop="20250211130000 +0000">
-    <title>Super Mario Bros 3</title>
-    <desc>King Koopa busts out a top criminal so he can teach the Koopalings to steal and to stop the Mario Brothers. / Hip and Hop Koopa turn Luigi and King Whim-bag, of the ice world, into dogs with the king's wand.</desc>
-  </programme>
   <programme channel="400000033" start="20250211130000 +0000" stop="20250211133000 +0000">
     <title>Super Mario Bros 3</title>
     <desc>Kooky uses his new &quot;Raiser Upper&quot; machine to levitate everything in the Mushroom Kingdom to the sky. / Another set of adventures starring the now-classic kids' heroes, The Super Marios Bros. This time Koopa has escaped from a Banishment Zone to battle the Super Mario Bros. And he has a powerful new weapon, the Koopa Kids - Koopa's bratty, yet lovable.</desc>
@@ -16177,10 +15989,6 @@
     <display-name>Homeful</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/paC3o7AAiE7bhw==/790ebde9-0938-4667-9664-62136298f868/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="700414" start="20250211120540 +0000" stop="20250211125959 +0000">
-    <title>Derelict Rescue</title>
-    <desc>Say goodbye to this chapel’s rooftop forest and hello to a heavenly overhaul.</desc>
-  </programme>
   <programme channel="700414" start="20250211125959 +0000" stop="20250211135155 +0000">
     <title>Dream Kitchens &amp; Bathrooms</title>
     <desc>Watch luxury rule in a trendy kitchen and custom his-and-hers ensuite bathrooms.</desc>
@@ -16381,10 +16189,6 @@
     <display-name>Antiques Road Trip</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/rn1SMMdAK3vyPw==/3ef7a392-9280-41c8-a8ca-a2a47f83c1d2/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="694174" start="20250211120730 +0000" stop="20250211130259 +0000">
-    <title>Antiques Road Trip</title>
-    <desc>Izzie takes to the waves in Newquay and Catherine wrestles with local history.</desc>
-  </programme>
   <programme channel="694174" start="20250211130259 +0000" stop="20250211135824 +0000">
     <title>Antiques Road Trip</title>
     <desc>Izzie hunts down some bargains while Catherine visits a ravaged village in Devon.</desc>
@@ -16673,7 +16477,7 @@
     <display-name>The Bob Ross Channel</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/YimvflKuT6wvVQ==/f5c01303-17e6-44a4-826e-d03be6b05d10/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="660350" start="20250211124301 +0000" stop="20250213000000 +0000">
+  <programme channel="660350" start="20250211130627 +0000" stop="20250213000000 +0000">
     <title>Program information currently unavailable.</title>
   </programme>
   <channel id="400000073">
@@ -16852,10 +16656,6 @@
     <display-name>How To</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/zifoznYKb8Sklw==/e7c157ef-0e36-4131-9218-f27076ce26f4/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="715952" start="20250211123613 +0000" stop="20250211130126 +0000">
-    <title>How It's Made</title>
-    <desc>Explore how yogurt, candles and neon signs are made.</desc>
-  </programme>
   <programme channel="715952" start="20250211130126 +0000" stop="20250211132638 +0000">
     <title>How It's Made</title>
     <desc>Discover how prepared mustard is made and see how violins are handcrafted.</desc>
@@ -17196,10 +16996,6 @@
     <display-name>Welcome Home</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/X4SSb5THUeHUnw==/2f1fd1c5-7bdc-475f-841f-9a2a9f3ae75b/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="715945" start="20250211123247 +0000" stop="20250211125620 +0000">
-    <title>Beach Hunters</title>
-    <desc>A Denver family hunts for a new home on the water in Cocoa Beach, FL.</desc>
-  </programme>
   <programme channel="715945" start="20250211125620 +0000" stop="20250211132152 +0000">
     <title>Beach Hunters</title>
     <desc>A couple is ready for their Connecticut beach home.</desc>
@@ -17548,10 +17344,6 @@
     <display-name>Waypoint TV</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/WsThCCg0FeLx7w==/4b2bb660-9424-45c9-ad67-9c7099f60cbf/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000000" start="20250211123015 +0000" stop="20250211130015 +0000">
-    <title>Chasin' The Sun</title>
-    <desc>With Meredith McCord halfway around the world, Capt. Justin Leake gives show producer Chris Hermans his first shot at landing a tarpon after filming them for 9 seasons. Does art imitate life?</desc>
-  </programme>
   <programme channel="400000000" start="20250211130015 +0000" stop="20250211131933 +0000">
     <title>The Raven Project</title>
     <desc>Last year was chaotic but it wouldn’t be right if we didn’t try to throw a wrench into our plans once again. Ladies and gentlemen, welcome to the Dirty Bird.</desc>
@@ -17871,10 +17663,6 @@
     <display-name>Waypoint TV</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/WsThCCg0FeLx7w==/4b2bb660-9424-45c9-ad67-9c7099f60cbf/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000000" start="20250211123015 +0000" stop="20250211130015 +0000">
-    <title>Chasin' The Sun</title>
-    <desc>With Meredith McCord halfway around the world, Capt. Justin Leake gives show producer Chris Hermans his first shot at landing a tarpon after filming them for 9 seasons. Does art imitate life?</desc>
-  </programme>
   <programme channel="400000000" start="20250211130015 +0000" stop="20250211131933 +0000">
     <title>The Raven Project</title>
     <desc>Last year was chaotic but it wouldn’t be right if we didn’t try to throw a wrench into our plans once again. Ladies and gentlemen, welcome to the Dirty Bird.</desc>
@@ -18194,10 +17982,6 @@
     <display-name>Top Gear</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/C_2JpebKmgJWag==/30a1f8b9-c414-4d47-a7ec-4f4f6792aed2/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000065" start="20250211114717 +0000" stop="20250211125817 +0000">
-    <title>Top Gear UK</title>
-    <desc>The team builds limos out of the most improbable cars and drive to the Brit Awards. Contains Strong Language.</desc>
-  </programme>
   <programme channel="400000065" start="20250211125817 +0000" stop="20250211135943 +0000">
     <title>Top Gear UK</title>
     <desc>The boys drive lightweight supercars across Europe. Contains Strong Language.</desc>
@@ -18330,10 +18114,6 @@
     <display-name>Travel + Adventure</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/j_txz10QKzSJ7A==/d2ad86e1-c1b3-4758-abec-a75aabd439d0/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000068" start="20250211122315 +0000" stop="20250211124846 +0000">
-    <title>Man v. Food With Adam Richman</title>
-    <desc>Adam Richman visits beautiful Honolulu, HI, for traditional eats.</desc>
-  </programme>
   <programme channel="400000068" start="20250211124846 +0000" stop="20250211131417 +0000">
     <title>Man v. Food With Adam Richman</title>
     <desc>Adam heads to Memphis, TN, to take on a seven-and-a-half-pound burger.</desc>
@@ -18918,10 +18698,6 @@
     <display-name>CINEVAULT: Westerns</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/oH-YJE2CkL3BCA==/bda0dfca-9c16-4b67-8930-324a4b7a0dbd/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="673498" start="20250211112000 +0000" stop="20250211125900 +0000">
-    <title>Face of a Fugitive</title>
-    <desc>While being escorted to jail, bank robber Jim Larson (Fred MacMurray) manages to get the upper hand on his captor and escape. Jim is surprised to see his brother appear on the scene, ready to aid his sibling. As they make their getaway, his brother and the pursuing lawman shoot each other, leaving the stunned Jim alone and on the run. Assuming a different identity, Jim travels to a mining town and befriends the local sheriff (Lin McCarthy), hoping to start over and find redemption.</desc>
-  </programme>
   <programme channel="673498" start="20250211125900 +0000" stop="20250211144600 +0000">
     <title>Good Day for a Hanging</title>
     <desc>When the local sheriff is killed after a bank robbery, ex-lawman Ben Cutler (Fred MacMurray) collars the apparent killer, Eddie Campbell (Robert Vaughn). Because of his background as a local youth who spent time living with the Cutlers, Eddie gets the benefit of the doubt from Ben's daughter and his wife-to-be, Ruth (Margaret Hayes). Ben is firm in his belief that Eddie is guilty, and as the matter is debated in a divisive court battle, it will soon become clear whether or not he's right.</desc>
@@ -19266,10 +19042,6 @@
     <display-name>ION Mystery</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/yHjKLx87GUXFwQ==/b74f76d9-1cd3-4ff8-861a-c4613ef3ca3e/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="684167" start="20250211110000 +0000" stop="20250211130000 +0000">
-    <title>Midsomer Murders</title>
-    <desc>A planning dispute turns to murder, after a leading light in the Midsomer Conservation Society suspects her neighbours are involved in a money-making development scam. Political wrangling, burglaries and sexual liaisons abound in picturesque Great Pelfe - but when a member of the possible scam is themselves murdered, Barnaby wonders what is truly going on behind the scenes of an important by-election.</desc>
-  </programme>
   <programme channel="684167" start="20250211130000 +0000" stop="20250211150000 +0000">
     <title>Midsomer Murders</title>
     <desc>Barnaby reluctantly accompanies Joyce on a spa weekend to Swavely Manor. But as he attempts to de-stress, a woman is found dead in the flotation chamber. He abandons his treatment to investigate, but his personal worries are never far away as he contemplates his future, while trying to determine if an argument between the spa's owners and their neighbours is the motive, or something else.</desc>
@@ -19494,10 +19266,6 @@
     <display-name>Unsolved Mysteries</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/NPELiZm8y5DsEA==/864892f9-3ab0-4950-9f8b-189ec2d92c20/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="671073" start="20250211121000 +0000" stop="20250211130100 +0000">
-    <title>Unsolved Mysteries With Robert Stack</title>
-    <desc>Jesse James Hollywood and update; Rider Down and update; Bad Dad; Picture Kristen Gone.</desc>
-  </programme>
   <programme channel="671073" start="20250211130100 +0000" stop="20250211135900 +0000">
     <title>Unsolved Mysteries With Robert Stack</title>
     <desc>This episode includes: Doris Duke &amp; UD, UD: Foster Son, Vietnam Orphans, Puerto Rican Monster and Money From Heaven.</desc>
@@ -19785,10 +19553,6 @@
     <display-name>Silent Witness and New Tricks</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/Nbi04He3-VcD9g==/2601f920-7f1b-4a8f-a583-00b77ede189e/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000064" start="20250211114800 +0000" stop="20250211124800 +0000">
-    <title>New Tricks</title>
-    <desc>A 10-year feud between two families with rival ice-cream businesses turns ugly as they vie for the same contract.</desc>
-  </programme>
   <programme channel="400000064" start="20250211124800 +0000" stop="20250211134800 +0000">
     <title>New Tricks</title>
     <desc>Ricky Hanson is in court for attempting to murder Jack. Jack must cope with meeting his nemesis in court.</desc>
@@ -19933,10 +19697,6 @@
     <display-name>Def Jam</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/dafqZ8Rkvt1sFg==/a95b393f-af18-4bb2-b5cd-bab323fd961f/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000117" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>Def Jam Tailgate Party Anthems 3</title>
-    <desc>Ludacris, Kanye West, Ne-Yo and Rihanna keep the non-stop music flowing.</desc>
-  </programme>
   <programme channel="400000117" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Def Jam Classics - Vol 1</title>
     <desc>Hip-hop royalty from Def Jam&amp;#39;s vault: classic videos featuring Kanye, Jay-Z, Method Man, Public Enemy &amp;amp; more</desc>
@@ -20073,10 +19833,6 @@
     <display-name>Def Jam</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/dafqZ8Rkvt1sFg==/a95b393f-af18-4bb2-b5cd-bab323fd961f/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000117" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>Def Jam Tailgate Party Anthems 3</title>
-    <desc>Ludacris, Kanye West, Ne-Yo and Rihanna keep the non-stop music flowing.</desc>
-  </programme>
   <programme channel="400000117" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Def Jam Classics - Vol 1</title>
     <desc>Hip-hop royalty from Def Jam&amp;#39;s vault: classic videos featuring Kanye, Jay-Z, Method Man, Public Enemy &amp;amp; more</desc>
@@ -20213,10 +19969,6 @@
     <display-name>Def Jam</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/dafqZ8Rkvt1sFg==/a95b393f-af18-4bb2-b5cd-bab323fd961f/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000117" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>Def Jam Tailgate Party Anthems 3</title>
-    <desc>Ludacris, Kanye West, Ne-Yo and Rihanna keep the non-stop music flowing.</desc>
-  </programme>
   <programme channel="400000117" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Def Jam Classics - Vol 1</title>
     <desc>Hip-hop royalty from Def Jam&amp;#39;s vault: classic videos featuring Kanye, Jay-Z, Method Man, Public Enemy &amp;amp; more</desc>
@@ -20353,10 +20105,6 @@
     <display-name>REELZ Famous &amp; Infamous</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/GnU5YDJqXLtYiA==/942bdeac-9411-4562-a78c-5402d04711a7/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="641290" start="20250211120400 +0000" stop="20250211125800 +0000">
-    <title>Autopsy: The Last Hours of...</title>
-    <desc>As the star of 'The Partridge Family', David Cassidy was one of the biggest teen idols in the world.</desc>
-  </programme>
   <programme channel="641290" start="20250211125800 +0000" stop="20250211135200 +0000">
     <title>Autopsy: The Last Hours of...</title>
     <desc>In 1977 the world was stunned by the news that the breakout comedy star, Freddie Prinze, had taken his own life at the age of 22; he shot to fame as the star of &quot;Chico and the Man,&quot; but Freddie struggled to balance his fame with his personal life.</desc>
@@ -20489,10 +20237,6 @@
     <display-name>MrBeast</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/If_h2B7pnhZ1Rg==/1cd9fa65-16d9-40e6-81c3-a81ce2663736/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000048" start="20250211120800 +0000" stop="20250211124500 +0000">
-    <title>MrBeast</title>
-    <desc>Can Two Strangers Survive 100 Days In Nuclear Bunker for $500,000?</desc>
-  </programme>
   <programme channel="400000048" start="20250211124500 +0000" stop="20250211131500 +0000">
     <title>MrBeast</title>
     <desc>Timberlake, Miranda Cosgrove &amp; Mark Cuban tour $100,000,000 Houses!</desc>
@@ -20705,10 +20449,6 @@
     <display-name>Vice</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/KsZ7FdxWGIMx1A==/e9857bc6-ee9a-4823-b3ea-ab97d0a85143/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="666613" start="20250211122959 +0000" stop="20250211125959 +0000">
-    <title>Super Max Retro Show</title>
-    <desc>Chris Distefano explores a sax wizard, headbanging and celebrity crimes.</desc>
-  </programme>
   <programme channel="666613" start="20250211125959 +0000" stop="20250211132959 +0000">
     <title>Super Max Retro Show</title>
     <desc>Chris Distefano and the panel explore kidnapping, streaking, and old school smut.</desc>
@@ -20937,10 +20677,6 @@
     <display-name>TMZ</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/bX6Ju5cXjY5SMw==/ac6425fe-0808-4566-ba6a-066d22dc3829/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="641496" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>TMZ LIVE</title>
-    <desc>TMZ LIVE</desc>
-  </programme>
   <programme channel="641496" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>TMZ LIVE</title>
     <desc>TMZ LIVE</desc>
@@ -21381,7 +21117,7 @@
     <display-name>Ax Men</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/4aSKuVPV474CXQ==/279f34be-8b5c-42a1-a7df-e04f01e95693/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000099" start="20250211124301 +0000" stop="20250211133100 +0000">
+  <programme channel="400000099" start="20250211130627 +0000" stop="20250211133100 +0000">
     <title>Program information currently unavailable.</title>
   </programme>
   <programme channel="400000099" start="20250211133100 +0000" stop="20250211142400 +0000">
@@ -21554,7 +21290,7 @@
     <display-name>Ax Men</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/4aSKuVPV474CXQ==/279f34be-8b5c-42a1-a7df-e04f01e95693/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000099" start="20250211124301 +0000" stop="20250211133100 +0000">
+  <programme channel="400000099" start="20250211130627 +0000" stop="20250211133100 +0000">
     <title>Program information currently unavailable.</title>
   </programme>
   <programme channel="400000099" start="20250211133100 +0000" stop="20250211142400 +0000">
@@ -21727,10 +21463,6 @@
     <display-name>Deal Zone</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/TlCTTxrgUYh9Vg==/982ab39c-a6a8-472b-9210-3b009956dee1/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000098" start="20250211122300 +0000" stop="20250211125100 +0000">
-    <title>Storage Wars</title>
-    <desc>The bidders head to Rancho Cucamonga, Calif.; Ivy opens his wallet for the right locker; buyers Darrell and Brandon stay hungry.</desc>
-  </programme>
   <programme channel="400000098" start="20250211125100 +0000" stop="20250211131800 +0000">
     <title>Storage Wars</title>
     <desc>Dave goes after Jarrod and Brandi at a first-class auction in Arcadia, Calif.; Ivy makes an early move; Mary struggles to keep up with the competition amid soaring prices.</desc>
@@ -21967,10 +21699,6 @@
     <display-name>Deal Zone</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/TlCTTxrgUYh9Vg==/982ab39c-a6a8-472b-9210-3b009956dee1/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000098" start="20250211122300 +0000" stop="20250211125100 +0000">
-    <title>Storage Wars</title>
-    <desc>The bidders head to Rancho Cucamonga, Calif.; Ivy opens his wallet for the right locker; buyers Darrell and Brandon stay hungry.</desc>
-  </programme>
   <programme channel="400000098" start="20250211125100 +0000" stop="20250211131800 +0000">
     <title>Storage Wars</title>
     <desc>Dave goes after Jarrod and Brandi at a first-class auction in Arcadia, Calif.; Ivy makes an early move; Mary struggles to keep up with the competition amid soaring prices.</desc>
@@ -22207,10 +21935,6 @@
     <display-name>Duck Dynasty</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/V-_-L8hClltHfg==/e8664143-3c03-4222-91b1-af7b86fa2969/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000087" start="20250211121727 +0000" stop="20250211124340 +0000">
-    <title>Duck Dynasty</title>
-    <desc>Willie calls the team into work on a Saturday afternoon for an HR training session, but the seminar quickly dissolves from unproductive to complete disaster.</desc>
-  </programme>
   <programme channel="400000087" start="20250211124340 +0000" stop="20250211130949 +0000">
     <title>Duck Dynasty</title>
     <desc>Willie's suspicious behavior from dying his beard to buying a new motorcycle, makes Jase come to the conclusion that Willie is having a mid-life crisis. Jase's help turns into a competition amongst the Robertson brothers to see who is most fit.</desc>
@@ -22507,10 +22231,6 @@
     <display-name>Dance Moms</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/B8BuLfPlBfE67Q==/35803cea-97e6-487c-9050-0171abf6c647/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000086" start="20250211115333 +0000" stop="20250211124704 +0000">
-    <title>Dance Moms</title>
-    <desc>Melissa takes control during Mackenzie's music video shoot.</desc>
-  </programme>
   <programme channel="400000086" start="20250211124704 +0000" stop="20250211140629 +0000">
     <title>Dance Moms</title>
     <desc>Abby finally presents her new junior elite competition team.</desc>
@@ -22667,10 +22387,6 @@
     <display-name>MotorTrend FAST TV</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/v91lgutB5-L5Lw==/db233fc0-5e25-4078-977c-324669c03581/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000108" start="20250211122855 +0000" stop="20250211125301 +0000">
-    <title>Roadkill</title>
-    <desc>David Freiburger and Mike Finnegan host from the annual Hot Rod Power Tour road trip including Roadkill project cars and a never-before-seen Hot Rod show video.</desc>
-  </programme>
   <programme channel="400000108" start="20250211125301 +0000" stop="20250211131850 +0000">
     <title>Roadkill</title>
     <desc>David and guest Rick Pewe revisit a 1946 Willys Jeep they rescued in 2001.</desc>
@@ -22975,10 +22691,6 @@
     <display-name>MotorTrend FAST TV</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/v91lgutB5-L5Lw==/db233fc0-5e25-4078-977c-324669c03581/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000108" start="20250211122855 +0000" stop="20250211125301 +0000">
-    <title>Roadkill</title>
-    <desc>David Freiburger and Mike Finnegan host from the annual Hot Rod Power Tour road trip including Roadkill project cars and a never-before-seen Hot Rod show video.</desc>
-  </programme>
   <programme channel="400000108" start="20250211125301 +0000" stop="20250211131850 +0000">
     <title>Roadkill</title>
     <desc>David and guest Rick Pewe revisit a 1946 Willys Jeep they rescued in 2001.</desc>
@@ -23759,11 +23471,7 @@
     <display-name>Cheaters</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/qkYRfPk67gF9EA==/1a61481a-60fa-4294-9d23-f097b7773866/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000092" start="20250211122600 +0000" stop="20250211125300 +0000">
-    <title>Cheaters</title>
-    <desc>Toby discovers his girlfriend is pregnant.</desc>
-  </programme>
-  <programme channel="400000092" start="20250211125300 +0000" stop="20250211134300 +0000">
+  <programme channel="400000092" start="20250211130627 +0000" stop="20250211134300 +0000">
     <title>Program information currently unavailable.</title>
   </programme>
   <programme channel="400000092" start="20250211134300 +0000" stop="20250211141100 +0000">
@@ -24048,10 +23756,6 @@
     <display-name>Court TV</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/B26Ze5MjXcdNuw==/c2033d61-8138-4bed-abdc-9e512b797080/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="682630" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>VPI: Vinnie Politan Investigates</title>
-    <desc>Description Unavailable</desc>
-  </programme>
   <programme channel="682630" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Opening Statements With Julie Grant</title>
     <desc>Former prosecutor Julie Grant is joined by a team of top trial attorneys and forensic experts to cover the high-stakes trials that are on the docket, and the crime cases dominating the headlines.</desc>
@@ -24212,10 +23916,6 @@
     <display-name>Love Quest</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/1uB0EL2fDjTOXQ==/8a4f1c0e-33d2-48ed-94d9-20c3610bd162/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="670605" start="20250211122133 +0000" stop="20250211124601 +0000">
-    <title>Brandy and Ray J: A Family Business</title>
-    <desc>While busy promoting the first single off his major label debut, Ray and Brittany's relationship takes a blow.</desc>
-  </programme>
   <programme channel="670605" start="20250211124601 +0000" stop="20250211131027 +0000">
     <title>Brandy and Ray J: A Family Business</title>
     <desc>Both Brandy and Ray confide with others about their big fight while continuing to lead separate lives.</desc>
@@ -24420,10 +24120,6 @@
     <display-name>Nosey</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/Osm7h-1qSpTPKg==/22eaf49e-a2ad-4da4-afbd-66aedb72c78f/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="641492" start="20250211115747 +0000" stop="20250211124442 +0000">
-    <title>The Steve Wilkos Show</title>
-    <desc>Calvin’s mother Sheila says that Calvin and Sylvia’s baby isn’t his! Sylvia wants to prove her wrong!</desc>
-  </programme>
   <programme channel="641492" start="20250211124442 +0000" stop="20250211133002 +0000">
     <title>The Steve Wilkos Show</title>
     <desc>Joe met &quot;Jessica&quot; on a chat line and later said she was pregnant. Chastity says that her ex fathered her kid.</desc>
@@ -24772,10 +24468,6 @@
     <display-name>Family Unscripted</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/N3H6NoYklcLidA==/6ea6276d-0cdb-4348-a68f-5b6cc575c8cb/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="715948" start="20250211120232 +0000" stop="20250211125103 +0000">
-    <title>The Little Couple</title>
-    <desc>Jen's quickly recovering from surgery and the family heads back home.</desc>
-  </programme>
   <programme channel="715948" start="20250211125103 +0000" stop="20250211133937 +0000">
     <title>The Little Couple</title>
     <desc>Jen is recovering from surgery amidst the business of everyday life.</desc>
@@ -24952,10 +24644,6 @@
     <display-name>Love &amp; Desire</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/zaeirEKJQW1qmw==/566b6cbc-6c90-4e0c-8a8d-3f25a4b375c4/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="715944" start="20250211120545 +0000" stop="20250211125836 +0000">
-    <title>First Dates</title>
-    <desc>Will TV aerial specialist Aaron get a good reception for his cheeky one-liners from nursery worker Darcy?</desc>
-  </programme>
   <programme channel="715944" start="20250211125836 +0000" stop="20250211135121 +0000">
     <title>First Dates</title>
     <desc>Can Liam put the right foot forward with podiatrist Coryn? Will Gary's karaoke skills impress Nicole?</desc>
@@ -25631,10 +25319,6 @@
     <display-name>Alien Nation by DUST</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/MvyysUkfAAcKsw==/48090b52-3410-4b0e-a2b1-7386e9700c1c/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="692057" start="20250211105219 +0000" stop="20250211124340 +0000">
-    <title>On the Trail of Bigfoot</title>
-    <desc>Seth Breedlove heads to the Adirondacks for an intensive, adventure-filled week searching for Sasquatch.</desc>
-  </programme>
   <programme channel="692057" start="20250211124340 +0000" stop="20250211142345 +0000">
     <title>On the Trail of Bigfoot</title>
     <desc>Seth Breedlove and his crew head into remote forest regions looking to prove the elusive creature's existence.</desc>
@@ -25947,10 +25631,6 @@
     <display-name>OuterSphere</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/Tkp-b6ESHI9lXw==/9d4070e4-10ea-42f7-8598-d56da77c07e0/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000006" start="20250211120650 +0000" stop="20250211130129 +0000">
-    <title>Painkiller Jane</title>
-    <desc>Riley surprises everyone when he reveals his penchant for performing magic tricks.</desc>
-  </programme>
   <programme channel="400000006" start="20250211130129 +0000" stop="20250211135225 +0000">
     <title>Mutant X</title>
     <desc>In an attempt to save his own life, Ashlocke revives an ancient Egyptian alchemist who poses a lethal threat.</desc>
@@ -26123,10 +25803,6 @@
     <display-name>Ghosts are Real</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/UvxfQ_4gewasNg==/f0784641-0d22-4eb3-88a2-f2854aa235f9/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="715951" start="20250211120925 +0000" stop="20250211125656 +0000">
-    <title>Kindred Spirits</title>
-    <desc>Amy and Adam are called on to solve a haunting in a New England home.</desc>
-  </programme>
   <programme channel="715951" start="20250211125656 +0000" stop="20250211134500 +0000">
     <title>Kindred Spirits</title>
     <desc>Amy and Adam search for a killer's spirit in the Villisca Axe Murder House.</desc>
@@ -26307,10 +25983,6 @@
     <display-name>Mysterious Worlds</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/UeTcomla3i65cg==/686ca4a9-30ac-42d6-bdbf-70199f7912d9/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="715946" start="20250211120713 +0000" stop="20250211125513 +0000">
-    <title>Mysteries at the Museum</title>
-    <desc>Don Wildman explores the myths and mysteries behind America's nerve center.</desc>
-  </programme>
   <programme channel="715946" start="20250211125513 +0000" stop="20250211134314 +0000">
     <title>Mysteries at the Museum</title>
     <desc>Don investigates a surgery, a brilliant magician and a slimy invention.</desc>
@@ -26491,10 +26163,6 @@
     <display-name>Classic Doctor Who</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/T8g-FFdgvCQrxA==/2d6dbfc0-0fca-4d2c-abcc-bce692499401/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000059" start="20250211123600 +0000" stop="20250211130500 +0000">
-    <title>Classic Doctor Who</title>
-    <desc>The Master uses his hypnotic powers to take control of a factory where he creates Autons.</desc>
-  </programme>
   <programme channel="400000059" start="20250211130500 +0000" stop="20250211133300 +0000">
     <title>Classic Doctor Who</title>
     <desc>The only clue to the Master's plans is a single plastic daffodil.</desc>
@@ -26791,10 +26459,6 @@
     <display-name>Cosmos</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/V0px_D_ClvVrUw==/163c14b1-79c1-491d-a66f-5e04a17e061f/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="650665" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>Cosmos: A Spacetime Odyssey</title>
-    <desc>A thrilling, new adventure across space and time begins.</desc>
-  </programme>
   <programme channel="650665" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Cosmos: A Spacetime Odyssey</title>
     <desc>Discover the tree of life.</desc>
@@ -27135,10 +26799,6 @@
     <display-name>The Jack Hanna Channel</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/AyktIk8iNAgrTg==/4151b64f-afe8-4eb0-9f5a-82865d67d89d/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="702891" start="20250211123739 +0000" stop="20250211130158 +0000">
-    <title>Jack Hanna's Wild Countdown</title>
-    <desc>Join Jungle Jack for a journey with some of the animal kingdom’s most outstanding omnivores!</desc>
-  </programme>
   <programme channel="702891" start="20250211130158 +0000" stop="20250211132614 +0000">
     <title>Jack Hanna's Wild Countdown</title>
     <desc>Come along with Jungle Jack to go deep into some of the world’s best national parks!</desc>
@@ -27487,10 +27147,6 @@
     <display-name>Xplore</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/Dr1uV5c7P9sd0A==/075f8826-fdc1-4007-aed3-abe290b90ff7/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="702892" start="20250211123540 +0000" stop="20250211125936 +0000">
-    <title>Mission Unstoppable</title>
-    <desc>Fixing bones with oyster shells, quakes in space, the 101 on data privacy, and a mathmagical trick.</desc>
-  </programme>
   <programme channel="702892" start="20250211125936 +0000" stop="20250211132329 +0000">
     <title>Mission Unstoppable</title>
     <desc>Making stars with lasers, using AR to help students, quantum computing, and discovering new elements.</desc>
@@ -28411,10 +28067,6 @@
     <display-name>UnXplained Zone</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/OMUgNla_iOsVVQ==/dfdffa87-f1cf-4849-baab-6d55e3c3f3d6/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000094" start="20250211122800 +0000" stop="20250211125500 +0000">
-    <title>The Proof Is Out There</title>
-    <desc>A baby shark develops an eerie, humanlike face; blue lights in the sky may be a sign that the end is coming; possible aliens vacation over Lake Superior.</desc>
-  </programme>
   <programme channel="400000094" start="20250211125500 +0000" stop="20250211132300 +0000">
     <title>The Proof Is Out There</title>
     <desc>Investigating if a breed of dogs could possess the power to completely freeze time; asking if invisibility cloaking is possible; looking for evidence that aliens crash-landed in Antarctica several millenniums ago.</desc>
@@ -29123,7 +28775,7 @@
     <display-name>World's Most Evil Killers</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/YnNDuixBnH_Owg==/0aa317c5-3f1c-4949-9e48-3f257c8293c4/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000093" start="20250211124304 +0000" stop="20250211131900 +0000">
+  <programme channel="400000093" start="20250211130629 +0000" stop="20250211131900 +0000">
     <title>Program information currently unavailable.</title>
   </programme>
   <programme channel="400000093" start="20250211131900 +0000" stop="20250211141300 +0000">
@@ -29408,9 +29060,6 @@
     <display-name>FilmRise True Crime</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/MMxCLUyKSVzg6w==/83aa1731-c6a7-42d6-b797-1d2210b665ec/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="692086" start="20250211124304 +0000" stop="20250211125000 +0000">
-    <title>Program information currently unavailable.</title>
-  </programme>
   <programme channel="692086" start="20250211125000 +0000" stop="20250211134400 +0000">
     <title>World's Most Evil Killers</title>
     <desc>Examining some of the most dangerous and prolific murderers in the UK and worldwide.</desc>
@@ -29475,22 +29124,25 @@
     <title>World's Most Evil Killers</title>
     <desc>The story of a killer who took four lives during a chilling two-day killing spree in 2004 after being inspired by horror films.</desc>
   </programme>
-  <programme channel="692086" start="20250212033900 +0000" stop="20250212043300 +0000">
-    <title>Program information currently unavailable.</title>
-  </programme>
-  <programme channel="692086" start="20250212043300 +0000" stop="20250212053000 +0000">
+  <programme channel="692086" start="20250212033900 +0000" stop="20250212043600 +0000">
     <title>World's Most Evil Killers</title>
-    <desc>A killer who goaded police and media during his spree, Heriberto Seda claimed to kill based on his victims' star signs.</desc>
+    <desc>Responsible for five murders, Joshua Wade avoided justice for years and later confessed to killings that started from when he was just fourteen.</desc>
   </programme>
-  <programme channel="692086" start="20250212053000 +0000" stop="20250212054700 +0000">
-    <title>Program information currently unavailable.</title>
-  </programme>
-  <programme channel="692086" start="20250212054700 +0000" stop="20250212064300 +0000">
+  <programme channel="692086" start="20250212043600 +0000" stop="20250212053100 +0000">
     <title>World's Most Evil Killers</title>
-    <desc>A 23-year-old killer murders 17-year-old former head girl Georgia Williams in 2013.</desc>
+    <desc>After striking up a friendship in prison for previous murders, Stephen Unwin and William McFall's release had awful consequences.</desc>
   </programme>
-  <programme channel="692086" start="20250212064300 +0000" stop="20250212082000 +0000">
-    <title>Program information currently unavailable.</title>
+  <programme channel="692086" start="20250212053100 +0000" stop="20250212062900 +0000">
+    <title>World's Most Evil Killers</title>
+    <desc>The story of serial killer Geoffrey Evans and his accomplice John Shaw, who hit headlines in 1976.</desc>
+  </programme>
+  <programme channel="692086" start="20250212062900 +0000" stop="20250212072300 +0000">
+    <title>World's Most Evil Killers</title>
+    <desc>A double murderer is found guilty of the brutal assassination of an elderly couple.</desc>
+  </programme>
+  <programme channel="692086" start="20250212072300 +0000" stop="20250212082000 +0000">
+    <title>World's Most Evil Killers</title>
+    <desc>An in-depth look at some of the world's most dangerous murderers.</desc>
   </programme>
   <programme channel="692086" start="20250212082000 +0000" stop="20250212091800 +0000">
     <title>World's Most Evil Killers</title>
@@ -29536,15 +29188,13 @@
     <title>Killer in Plain Sight</title>
     <desc>Sue Snow takes some pills in the morning and dies suddenly Ñ from cyanide poisoning.</desc>
   </programme>
-  <programme channel="692086" start="20250212164500 +0000" stop="20250212170000 +0000">
-    <title>Program information currently unavailable.</title>
+  <programme channel="692086" start="20250212164500 +0000" stop="20250212171300 +0000">
+    <title>Killer in Plain Sight</title>
+    <desc>When a jogger is found dead on a road with tire tracks leading from the scene, it is obvious he was killed.</desc>
   </programme>
-  <programme channel="692086" start="20250212170000 +0000" stop="20250212175400 +0000">
+  <programme channel="692086" start="20250212171300 +0000" stop="20250212180600 +0000">
     <title>Dr. G: Medical Examiner</title>
-    <desc>Police patrolling the night streets hear gunshots and head to the scene. They find a nude middle-aged man in parking lot lying face down in a puddle of blood.</desc>
-  </programme>
-  <programme channel="692086" start="20250212175400 +0000" stop="20250212180600 +0000">
-    <title>Program information currently unavailable.</title>
+    <desc>Ricky Hawthorne, a middle-aged man with a history of AIDS, arrives at his local hospital complaining of chest pains. Doctors perform extensive tests on him but find nothing wrong and release him.</desc>
   </programme>
   <programme channel="692086" start="20250212180600 +0000" stop="20250212185800 +0000">
     <title>Dr. G: Medical Examiner</title>
@@ -29710,9 +29360,6 @@
     <display-name>Forensic Files</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/wwhdufKJWCTwmQ==/cede5a8f-240c-4790-bd37-e1e51583cd0c/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="671083" start="20250211124304 +0000" stop="20250211130400 +0000">
-    <title>Program information currently unavailable.</title>
-  </programme>
   <programme channel="671083" start="20250211130400 +0000" stop="20250211133200 +0000">
     <title>Forensic Files</title>
     <desc>In little more than a month, two women who lived in the same apartment complex were brutally murdered. The similarities of the crime scenes led police to conclude they were dealing with a serial killer who harbored an intense hatred of women.</desc>
@@ -30004,10 +29651,6 @@
     <display-name>Total Crime</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/-Xs5E9EjoCF-qQ==/7e8b8518-8447-4c08-9193-55efa2fff3bc/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="700412" start="20250211120356 +0000" stop="20250211125959 +0000">
-    <title>The Killer Within</title>
-    <desc>Find out how a phone call leads to a grisly discovery at a kidnapper’s home.</desc>
-  </programme>
   <programme channel="700412" start="20250211125959 +0000" stop="20250211135434 +0000">
     <title>The Killer Within</title>
     <desc>Explore a murder cold case, solved 28 years later when a tip reveals the killer.</desc>
@@ -30476,10 +30119,6 @@
     <display-name>Chasing Criminals</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/uW9LZn6a4aPHsg==/9f0a41fe-3e4d-44cf-ab49-e27914cdd8c1/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000074" start="20250211115315 +0000" stop="20250211124442 +0000">
-    <title>Kidnap and Rescue</title>
-    <desc>Brothers travel to Manila, Philippines, and one is kidnapped by a driver.</desc>
-  </programme>
   <programme channel="400000074" start="20250211124442 +0000" stop="20250211133408 +0000">
     <title>Kidnap and Rescue</title>
     <desc>An agriculture scientist is kidnapped by FARC while working in Colombia.</desc>
@@ -30656,10 +30295,6 @@
     <display-name>Living with Evil</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/GmtBToqtn8AmaA==/e4f84ab2-4935-4063-ad29-cc852b91e3b7/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000067" start="20250211120306 +0000" stop="20250211125141 +0000">
-    <title>Someone You Thought You Knew</title>
-    <desc>A bubbly high school senior goes missing in the suburbs of Seattle.</desc>
-  </programme>
   <programme channel="400000067" start="20250211125141 +0000" stop="20250211134013 +0000">
     <title>Someone You Thought You Knew</title>
     <desc>Cops view disgruntled employees and a mistress as suspects in a murder.</desc>
@@ -30836,10 +30471,6 @@
     <display-name>Tubi Originals</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/dPPQ6xMjYinbvg==/741d881e-657c-4a15-8ba8-847bab267f6e/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="677010" start="20250211112000 +0000" stop="20250211124700 +0000">
-    <title>Gone Before His Time: Freddie Prinze, Sr.</title>
-    <desc>A deep dive into the short yet impactful life of the trailblazing Latino comic whose son also went on to a career of much acclaim.</desc>
-  </programme>
   <programme channel="677010" start="20250211124700 +0000" stop="20250211142500 +0000">
     <title>Gone Before His Time: Kobe Bryant</title>
     <desc>Recount the achievements – some personal, some professional, and many halted – of an NBA legend before his untimely death.</desc>
@@ -31104,10 +30735,6 @@
     <display-name>ION</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/RlUAF0foU6KPIw==/d7bf80e8-e8bc-4883-9c2b-551d1d7ab80c/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="682634" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>NCIS: Los Angeles</title>
-    <desc>When a gunnery sergeant moonlighting as a security guard at a decommissioned nuclear power plant suffers radiation poisoning, the team goes under cover to investigate.</desc>
-  </programme>
   <programme channel="682634" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>NCIS: Los Angeles</title>
     <desc>A tech entrepreneur and venture capitalist who secretly developed a computer program that stealthily collects data is murdered.</desc>
@@ -31252,10 +30879,6 @@
     <display-name>ION Plus</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/F7vpf3zEd1UhwQ==/979fd7e0-d2df-4c2b-90d0-af690c9405cb/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="684165" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>Murdoch Mysteries</title>
-    <desc>When statues are formed from dead humans, Murdoch suspects a killer who knew the victims.</desc>
-  </programme>
   <programme channel="684165" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Murdoch Mysteries</title>
     <desc>Murdoch races to stop a secret space program that could ignite a war between Canada and the U.S.</desc>
@@ -31392,10 +31015,6 @@
     <display-name>Watchlist</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/ReMaTAHgfGzsjA==/3f255caf-ac21-456a-add4-31745babe3cb/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="715943" start="20250211120205 +0000" stop="20250211124810 +0000">
-    <title>Nikita</title>
-    <desc>Owen returns, but can Michael and Ryan trust him?</desc>
-  </programme>
   <programme channel="715943" start="20250211124810 +0000" stop="20250211133437 +0000">
     <title>Nikita</title>
     <desc>Ryan tells Nikita and Michael that Division is in trouble.</desc>
@@ -31736,10 +31355,6 @@
     <display-name>Generation Drama</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/PWstd6NtAYqWJA==/6e4b7a38-ccc1-4f1f-b4ce-626221c91a06/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000070" start="20250211120139 +0000" stop="20250211125036 +0000">
-    <title>Whiskey Cavalier</title>
-    <desc>The team goes back to college…undercover!</desc>
-  </programme>
   <programme channel="400000070" start="20250211125036 +0000" stop="20250211133900 +0000">
     <title>Whiskey Cavalier</title>
     <desc>The latest mission reunites Frankie with her former guardian.</desc>
@@ -32208,10 +31823,6 @@
     <display-name>CBC News</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/6T7ldSHm53gxoA==/4de90f79-d72c-4016-a740-93916a615dc2/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="555130" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-  </programme>
   <programme channel="555130" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
@@ -32344,10 +31955,6 @@
     <display-name>Euronews</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/rohLx552NRHcOA==/bac08913-5ae4-4e98-8a24-18f143bd6e25/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="559144" start="20250211123000 +0000" stop="20250211130000 +0000">
-    <title>Euronews Now</title>
-    <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
-  </programme>
   <programme channel="559144" start="20250211130000 +0000" stop="20250211131600 +0000">
     <title>Euronews Now</title>
     <desc>Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world.</desc>
@@ -32788,10 +32395,6 @@
     <display-name>FOX Weather</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/DyF3heUTu-BZ7Q==/ac3a8a9b-0068-488b-a5c6-380f373cc446/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="628893" start="20250211115900 +0000" stop="20250211125900 +0000">
-    <title>Fox Weather First </title>
-    <desc>Wake up at 5am to the first live national forecast of the day. All the latest weather news and everything you need to prepare for the day ahead.</desc>
-  </programme>
   <programme channel="628893" start="20250211125900 +0000" stop="20250211135900 +0000">
     <title>Weather Command</title>
     <desc>Go inside the Weather Command center for America’s forecast authority for all the latest breaking weather news.</desc>
@@ -32940,10 +32543,6 @@
     <display-name>Fox Sports en Espanol</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/y0a6tLgKc7keFw==/c2e45f1a-4b72-41fa-ac6c-4e402ca4d4f6/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="613695" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>FOX SPORTS EN ESPAÑOL</title>
-    <desc>FOX SPORTS EN ESPAÑOL</desc>
-  </programme>
   <programme channel="613695" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>FOX SPORTS EN ESPAÑOL</title>
     <desc>FOX SPORTS EN ESPAÑOL</desc>
@@ -33076,10 +32675,6 @@
     <display-name>Estrella News</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/q_ezHQGxesxVjg==/6693c612-32f8-4e02-be56-0029a4576cb2/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="560215" start="20250211123000 +0000" stop="20250211130000 +0000">
-    <title>24 Horas</title>
-    <desc>24 horas, acceso constante a las noticias más importantes para la comunidad Latina en EE. UU. y el mundo.</desc>
-  </programme>
   <programme channel="560215" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Noticiero Cierre de Edición</title>
     <desc>Mirthala Salinas presenta las noticias más importantes a nivel nacional y Latinoamérica.</desc>
@@ -33492,10 +33087,6 @@
     <display-name>Estrella Games</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/rU9786JHvdl8Qg==/24f67f95-6f5f-4db9-8e06-bd7227bcd1c9/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000030" start="20250211120001 +0000" stop="20250211130001 +0000">
-    <title>El Show De Don Cheto</title>
-    <desc>Programa de variedades lleno de diversion con invitados especiales, juegos, musica y mas.</desc>
-  </programme>
   <programme channel="400000030" start="20250211130001 +0000" stop="20250211140000 +0000">
     <title>Tumbaburros</title>
     <desc>Los concursantes son visitados en su hogar retados por el premio mayor mediante preguntas y respuestas.</desc>
@@ -33640,10 +33231,6 @@
     <display-name>Cine EstrellaTV</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/K72-gXbIXzkyLw==/f19b2e05-e9f9-402a-89bb-955a1559d984/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000028" start="20250211105959 +0000" stop="20250211125959 +0000">
-    <title>Los Inadaptados</title>
-    <desc>Ancianos asaltando, un mujeriego buscando amor, un chico timido en citas y una mujer enamorada de un suicida.</desc>
-  </programme>
   <programme channel="400000028" start="20250211125959 +0000" stop="20250211150000 +0000">
     <title>CLSEDI-SE_LO_DIJE_LUCECITA</title>
     <desc>Description Unavailable</desc>
@@ -33720,10 +33307,6 @@
     <display-name>EstrellaTV</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/R3ucJI7fjXwanA==/529ef58f-5297-4ba3-8373-cc5efdd68a65/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="400000031" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>A Que No Puedes</title>
-    <desc>A Que No Puedes</desc>
-  </programme>
   <programme channel="400000031" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>100 Latinos Dijeron</title>
     <desc>Reúne a la familia de lunes a viernes  y únete a la diversion en 100 Latinos Dijeron</desc>
@@ -33852,10 +33435,6 @@
     <display-name>FOX 5 New York</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/yNgjmPf0m6Kr0Q==/293bcf25-0c51-48fe-a73f-be41364b0a8e/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="555119" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>Good Day New York 7-8 a.m.</title>
-    <desc>Local, regional and national news events are reported by the Fox 5 News Team along with weather and traffic.</desc>
-  </programme>
   <programme channel="555119" start="20250211130000 +0000" stop="20250211150015 +0000">
     <title>Good Day New York</title>
     <desc>Join Curt and Rosanna as they cover everything New York, plus weather and traffic from Mike and Ines</desc>
@@ -33956,10 +33535,6 @@
     <display-name>News 12 New York</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/PBmJNkH1_OHUGA==/08fde41e-4252-484f-8b51-17124415b90c/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="557345" start="20250211123000 +0000" stop="20250211130000 +0000">
-    <title>7:30AM Morning Headlines</title>
-    <desc>Description Unavailable</desc>
-  </programme>
   <programme channel="557345" start="20250211130000 +0000" stop="20250211133000 +0000">
     <title>8AM Morning Headlines</title>
     <desc>Breaking news, headlines, and local stories from New York, New Jersey, and Connecticut.</desc>
@@ -34244,10 +33819,6 @@
     <display-name>FOX 29 Philadelphia</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/mTCCv6xL1m12dg==/4e233842-705b-4755-86f0-04092114d29a/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="555123" start="20250211120000 +0000" stop="20250211125918 +0000">
-    <title>Good Day Philadelphia at 7 a.m.</title>
-    <desc>FOX 29's morning news team breaks down the latest local, regional and national news.</desc>
-  </programme>
   <programme channel="555123" start="20250211125918 +0000" stop="20250211140018 +0000">
     <title>Good Day Philadelphia at 8 a.m.</title>
     <desc>FOX 29's morning news team breaks down the latest local, regional and national news.</desc>
@@ -34412,10 +33983,6 @@
     <display-name>FOX 11 Los Angeles</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/kfdKlk93tCKI9w==/0eb089c0-a74d-41dd-9d20-58b99dd39e8f/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="555113" start="20250211120020 +0000" stop="20250211130000 +0000">
-    <title>Good Day LA at 4 a.m.</title>
-    <desc>Wake up with your friends! Get the latest news, weather and traffic to get your days started right!</desc>
-  </programme>
   <programme channel="555113" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Good Day LA at 5 a.m.</title>
     <desc>Wake up with your friends! Get the latest news, weather and traffic to get your days started right!</desc>
@@ -34564,17 +34131,13 @@
     <display-name>WXIA 11Alive</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/6n4N5bBjkb3jNQ==/a80d1375-0d83-4375-b6ac-a25ea1e51708/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="618767" start="20250211124304 +0000" stop="20250213000000 +0000">
+  <programme channel="618767" start="20250211130629 +0000" stop="20250213000000 +0000">
     <title>Program information currently unavailable.</title>
   </programme>
   <channel id="610471">
     <display-name>WUSA DC/MD/VA 9</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/VAPj-WJsnnHOPQ==/16ed6354-f9fc-4b18-9f64-8c7ce0b786f8/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="610471" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>Get Up DC at 6 a.m.</title>
-    <desc>Get Up DC! for the latest and important news of the day, most-accurate weather forecast and local traffic reports.</desc>
-  </programme>
   <programme channel="610471" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Get Up DC at 6 a.m.</title>
     <desc>Get Up DC! for the latest and important news of the day, most-accurate weather forecast and local traffic reports.</desc>
@@ -34815,10 +34378,6 @@
     <display-name>FOX 5 Washington DC</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/_mvMbRBm3_cNlw==/030f186b-cf60-4481-b37a-2d17d42366fa/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="555121" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>FOX 5 Morning at 7am</title>
-    <desc>News, weather, traffic and more from FOX 5, serving the District of Columbia, Maryland and Virginia.</desc>
-  </programme>
   <programme channel="555121" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>FOX 5 Morning at 8am</title>
     <desc>News, weather, traffic and more from FOX 5, serving the District of Columbia, Maryland and Virginia.</desc>
@@ -34963,10 +34522,6 @@
     <display-name>Boston 25 News (WFXT)</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/Wkk0uQ5rLWmxqA==/2fd3a059-1ded-492f-aa65-96a8e6213f1b/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="650246" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>Live Local News</title>
-    <desc>Coverage of important local topics and events.</desc>
-  </programme>
   <programme channel="650246" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Live Local News</title>
     <desc>Coverage of important local topics and events.</desc>
@@ -35291,10 +34846,6 @@
     <display-name>WESH Very Orlando 2</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/6jPIT5o3yARrvQ==/9472475f-b199-47e0-b493-c8e157d17817/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="603904" start="20250211123000 +0000" stop="20250211130000 +0000">
-    <title>Chaos &amp; Kindness</title>
-    <desc>Jimmy and Ryan test their bravery at Camp Woodward, where skateboarding adventures abound. Nick second guesses a huge ramp amid playful peer pressure. Justin and Ryan rock out and inspire campers before sending them home ready to spread joy.</desc>
-  </programme>
   <programme channel="603904" start="20250211130000 +0000" stop="20250211133000 +0000">
     <title>Absolutely Albuquerque</title>
     <desc>Amanda takes in Albuquerque from a whole new angle with Talin Marked owner, Victor Limay. Together, they experience new flavors, make friends with the city's dynamic makers, and elevate their perspectives on what makes the Duke City so unique.</desc>
@@ -35783,17 +35334,13 @@
     <display-name>WMAR 2 Baltimore</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/X3WkYKq5pMbbpw==/1ca1f944-34e3-4735-bf58-27af61762549/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="692074" start="20250211124304 +0000" stop="20250213000000 +0000">
+  <programme channel="692074" start="20250211130629 +0000" stop="20250213000000 +0000">
     <title>Program information currently unavailable.</title>
   </programme>
   <channel id="644789">
     <display-name>WTIC Hartford FOX61</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/F9C-uPklygeJPA==/2dcf249c-df07-4ffa-9f7c-3bd6e6fca368/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="644789" start="20250211110000 +0000" stop="20250211130000 +0000">
-    <title>FOX61 Morning News at 6</title>
-    <desc>The only All Local All Morning newscast in Connecticut. Overnight developments, breaking news, local weather and traffic from across the state every weekday morning.</desc>
-  </programme>
   <programme channel="644789" start="20250211130000 +0000" stop="20250211150000 +0000">
     <title>FOX61 Morning News at 6</title>
     <desc>The only All Local All Morning newscast in Connecticut. Overnight developments, breaking news, local weather and traffic from across the state every weekday morning.</desc>
@@ -35950,10 +35497,6 @@
     <display-name>TMJ4 News Milwaukee</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/P7HoD5TuCFPptw==/b4316034-83c2-4f21-86b5-255caf1f8742/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="687451" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>Morning Rush</title>
-    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
-  </programme>
   <programme channel="687451" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Morning Rush</title>
     <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
@@ -36278,7 +35821,7 @@
     <display-name>WKBW 7 News Buffalo</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/L4bakzb1qscp4A==/106139f5-cc7a-43ec-9352-3b2f83a96711/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="689437" start="20250211124304 +0000" stop="20250213000000 +0000">
+  <programme channel="689437" start="20250211130629 +0000" stop="20250213000000 +0000">
     <title>Program information currently unavailable.</title>
   </programme>
   <channel id="610469">
@@ -36541,10 +36084,6 @@
     <display-name>KATC News Acadiana</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/_z7SwVVHaz6v9g==/a6ee923c-4dc0-4d93-81a2-31bf11be3a7e/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="687447" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>GMA 6:00 am</title>
-    <desc>KATC News in Acadiana - The latest local and national news and local weather, traffic and sports.</desc>
-  </programme>
   <programme channel="687447" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Replay: GMA 6:00</title>
     <desc>KATC News in Acadiana - The latest local and national news and local weather, traffic and sports.</desc>
@@ -37225,10 +36764,6 @@
     <display-name>KTVH News Helena</display-name>
     <icon src="https://canvas-lb.tubitv.com/opts/a-FoXVObUCUdQg==/9dee2225-042d-4ecd-9641-7637b352fb6b/CHgQeDoFMS4xLjZAAQ=="/>
   </channel>
-  <programme channel="687470" start="20250211120000 +0000" stop="20250211130000 +0000">
-    <title>Morning Rush</title>
-    <desc>Kick off your day with live headlines, weather and award-winning reporting from Scripps News journalists across America.</desc>
-  </programme>
   <programme channel="687470" start="20250211130000 +0000" stop="20250211140000 +0000">
     <title>Daybreak</title>
     <desc>KTVH News in Helena - The latest local and national news and local weather, traffic and sports.</desc>
